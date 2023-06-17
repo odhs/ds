@@ -1,2 +1,1 @@
-# ds
-Data Science Studies
+# Repository to Data Science Studies
